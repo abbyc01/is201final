@@ -1,0 +1,16 @@
+
+.pics{
+    display: inline;
+    justify-content: space-evenly;
+    width: 30%;
+    
+}
+
+body {
+    background-color: rgb(233, 241, 255);
+    color: rgb(5, 4, 5);
+    font-family: 'Roboto Condensed', cursive;
+}
+h1{
+    color: rgb(47, 115, 22);
+}
